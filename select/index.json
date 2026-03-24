@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "キラキラミライ",
+  "base_artist": "超ときめき♡宣伝部",
+  "createdAt": "2026-03-24T03:22:23.407027Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キラキラミライ",
+      "artist": "mezcolanza",
+      "has_synced": false,
+      "path": "select/01_キラキラミライ_mezcolanza.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キラキラミライ",
+      "artist": "Up Up Girls (Kari)",
+      "has_synced": true,
+      "path": "select/02_キラキラミライ_Up_Up_Girls_(Kari).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キラキラミライ",
+      "artist": "超ときめき 宣伝部",
+      "has_synced": false,
+      "path": "select/pl_01_キラキラミライ_超ときめき_宣伝部.txt"
+    }
+  ]
+}
